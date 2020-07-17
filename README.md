@@ -20,17 +20,17 @@ All of the images on this webpage have been imported from [Font Awsome](https://
 
 ```html
 <!-- Mobile Icon -->
-<i class="fa fa-mobile-alt"></i>
+<i class="fas fa-mobile-alt"></i>
 <!-- Question Mark -->
 <i class="fas fa-question"></i>
 <!-- User symbol -->
-<i class="fa fa-user"></i>
+<i class="fas fa-user"></i>
 <!-- Rock Hand -->
-<i class="fa hand-rock"></i>
+<i class="fas hand-rock"></i>
 <!-- Paper Hand -->
-<i class="fa paper-rock"></i>
+<i class="fas paper-rock"></i>
 <!-- Scissors Hand -->
-<i class="fa scissors-rock"></i>
+<i class="fas scissors-rock"></i>
 ```
 
 Since these tags function just like the other tags we have worked with in HTML, we can user `.innerHTML` with these icons if you wish to update an image.
